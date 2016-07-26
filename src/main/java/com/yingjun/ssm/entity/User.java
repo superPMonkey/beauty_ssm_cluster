@@ -9,7 +9,7 @@ import com.yingjun.ssm.util.CustomDateSerializer;
 
 /**
  * 用户
- * @author eric
+ * @author ERIC
  *
  */
 public class User {
