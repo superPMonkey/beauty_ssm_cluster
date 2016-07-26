@@ -18,7 +18,7 @@ public class Goods {
 	
 	private float price;
 	
-	private short state;//0表示下架 1表示正常
+	private short state; //0表示下架 1表示正常
 	
 	private int number;
 	
