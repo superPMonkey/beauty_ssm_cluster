@@ -12,7 +12,7 @@ import com.yingjun.ssm.util.CustomDateSerializer;
  */
 public class Order {
 	
-	private long orderId1;
+	private long orderId;
 	
 	private User user;
 	
